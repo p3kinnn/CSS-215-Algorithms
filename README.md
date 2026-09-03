@@ -10,6 +10,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -19,4 +20,8 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
