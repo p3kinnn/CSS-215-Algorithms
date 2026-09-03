@@ -12,6 +12,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,5 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
