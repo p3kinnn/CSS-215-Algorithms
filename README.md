@@ -15,11 +15,13 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -31,4 +33,9 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0021-merge-two-sorted-lists](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
