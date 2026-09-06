@@ -38,4 +38,12 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
