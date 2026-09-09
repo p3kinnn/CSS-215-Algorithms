@@ -37,6 +37,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -46,4 +47,12 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
