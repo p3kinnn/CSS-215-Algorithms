@@ -43,6 +43,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
+| [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +56,12 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
