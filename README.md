@@ -55,6 +55,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0058-length-of-last-word) |
 ## Bracket Sequences
 |  |
 | ------- |
