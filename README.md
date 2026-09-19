@@ -49,6 +49,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 ## String
 |  |
