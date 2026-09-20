@@ -72,4 +72,12 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
