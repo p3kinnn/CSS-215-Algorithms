@@ -8,6 +8,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +47,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
+| [3731-find-missing-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
