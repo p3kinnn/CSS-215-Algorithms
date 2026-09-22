@@ -6,6 +6,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0058-length-of-last-word) |
 ## Bracket Sequences
@@ -83,4 +85,8 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
