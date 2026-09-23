@@ -42,11 +42,13 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 | [3731-find-missing-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/3731-find-missing-elements) |
 ## Math
@@ -67,10 +69,12 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
