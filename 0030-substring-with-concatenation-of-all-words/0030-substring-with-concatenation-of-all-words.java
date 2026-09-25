@@ -5,36 +5,36 @@ class Solution {
             return list;
         }
 
-        int wordLen = words[0].length();
-        int numWords = words.length;
+        int lenOfWord = words[0].length();
+        int numOfWords = words.length;
 
         Map<String, Integer> wordCount = new HashMap<>();
         for (String w : words) {
             wordCount.put(w, wordCount.getOrDefault(w, 0) + 1);
         }
 
-        for (int i = 0; i < wordLen; i++) {
+        for (int i = 0; i < lenOfWord; i++) {
             int left = i;
             int right = i;
             int count = 0;
             Map<String, Integer> currentCount = new HashMap<>();
 
-            while (right + wordLen <= s.length()) {
-                String word = s.substring(right, right + wordLen);
-                right += wordLen;
+            while (right + lenOfWord <= s.length()) {
+                String word = s.substring(right, right + lenOfWord);
+                right += lenOfWord;
 
                 if (wordCount.containsKey(word)) {
                     currentCount.put(word, currentCount.getOrDefault(word, 0) + 1);
                     count++;
 
                     while (currentCount.get(word) > wordCount.get(word)) {
-                        String leftWord = s.substring(left, left + wordLen);
+                        String leftWord = s.substring(left, left + lenOfWord);
                         currentCount.put(leftWord, currentCount.get(leftWord) - 1);
                         count--;
-                        left += wordLen;
+                        left += lenOfWord;
                     }
 
-                    if (count == numWords) {
+                    if (count == numOfWords) {
                         list.add(left);
                     }
                 } else {
