@@ -61,6 +61,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0007-reverse-integer](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0020-valid-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -80,6 +82,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
@@ -117,4 +120,8 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
