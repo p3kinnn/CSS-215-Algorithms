@@ -129,4 +129,5 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
