@@ -130,4 +130,9 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0338-counting-bits](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0338-counting-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
