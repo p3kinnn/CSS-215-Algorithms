@@ -55,6 +55,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
+| [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 | [3731-find-missing-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/3731-find-missing-elements) |
@@ -64,6 +65,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0007-reverse-integer](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
+| [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0338-counting-bits) |
+| [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
