@@ -60,6 +60,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
@@ -104,6 +105,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -120,6 +122,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0036-valid-sudoku](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -149,4 +152,8 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
