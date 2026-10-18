@@ -27,6 +27,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0876-middle-of-the-linked-list) |
@@ -50,6 +51,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
