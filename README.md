@@ -10,6 +10,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0242-valid-anagram) |
@@ -56,6 +57,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
 | [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
@@ -143,4 +145,8 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0338-counting-bits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
