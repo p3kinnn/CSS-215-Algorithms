@@ -55,6 +55,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -116,6 +117,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
 ## Matrix
 |  |
@@ -127,6 +129,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
