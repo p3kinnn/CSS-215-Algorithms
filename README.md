@@ -55,6 +55,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
@@ -120,6 +121,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
 ## Matrix
