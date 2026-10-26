@@ -125,6 +125,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0039-combination-sum](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
 ## Matrix
 |  |
