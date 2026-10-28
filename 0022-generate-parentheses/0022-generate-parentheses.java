@@ -5,16 +5,16 @@ class Solution {
         return res;
 
     }
-    public void backtrack(List<String>res, String current, int open, int close, int n){
-       if (open == n && close == n) {
+    public void backtrack(List<String>res, String current, int open, int closed, int n){
+       if (open == n && closed == n) {
         res.add(current);
         return;
        }
        if (open < n) {
-        backtrack(res, current + "(", open+1, close, n);
+        backtrack(res,  current+ "(" , open+1, closed, n);
        }
-       if (close < open && close < n) {
-            backtrack(res, current + ")", open, close+1, n);
+       if (closed < open) {
+            backtrack(res, current + ")", open, closed+1, n);
         
        }
     }
