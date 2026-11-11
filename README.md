@@ -168,4 +168,24 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
