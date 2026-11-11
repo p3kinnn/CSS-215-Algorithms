@@ -3,17 +3,16 @@ class Solution {
         if (n == 1 || n == 2) {
             List<Integer> res = new ArrayList<>();
             for (int i = 0; i < n; i++) {
-            res.add(i);
+                res.add(i);
             }
-        return res;
-        }        
-        List<List<Integer>>graph = new ArrayList<>();
+            return res;
+        }
+        List<List<Integer>> graph = new ArrayList<>();
         int[] neighborCount = new int[n];
         for (int i = 0; i < n; i++) {
             graph.add(new ArrayList<>());
-
         }
-        for (int i = 0; i < edges.length;i++) {
+        for (int i = 0; i < edges.length; i++) {
             int a = edges[i][0];
             int b = edges[i][1];
             graph.get(a).add(b);
@@ -21,8 +20,8 @@ class Solution {
             neighborCount[a]++;
             neighborCount[b]++;
         }
-        Queue<Integer>queue = new LinkedList<>();
-        for (int i = 0; i < n;i++) {
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < n; i++) {
             if (neighborCount[i] == 1) {
                 queue.offer(i);
             }
@@ -32,8 +31,8 @@ class Solution {
             int size = queue.size();
             remaining -= size;
             for (int i = 0; i < size; i++) {
-                int leaf = queue.poll();
-                for (int neighbor : graph.get(leaf)) {
+                int removed = queue.poll();            // было: leaf
+                for (int neighbor : graph.get(removed)) {  // было: leaf
                     neighborCount[neighbor]--;
                     if (neighborCount[neighbor] == 1) {
                         queue.offer(neighbor);
@@ -41,7 +40,6 @@ class Solution {
                 }
             }
         }
-        
-            return new ArrayList<>(queue);
+        return new ArrayList<>(queue);
     }
 }
