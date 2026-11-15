@@ -74,6 +74,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0007-reverse-integer](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
 ## String
 |  |
@@ -159,6 +160,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0022-generate-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0338-counting-bits](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0338-counting-bits) |
 ## Union-Find
 |  |
@@ -196,4 +198,16 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
