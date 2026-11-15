@@ -128,6 +128,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +161,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0338-counting-bits](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0338-counting-bits) |
 ## Union-Find
@@ -201,13 +203,16 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
