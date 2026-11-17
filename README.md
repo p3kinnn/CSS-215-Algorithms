@@ -175,6 +175,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0310-minimum-height-trees) |
@@ -205,14 +206,17 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
