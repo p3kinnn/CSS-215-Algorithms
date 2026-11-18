@@ -60,6 +60,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0051-n-queens](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
@@ -171,6 +172,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 ## Depth-First Search
 |  |
@@ -207,16 +209,19 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
