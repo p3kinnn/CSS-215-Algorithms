@@ -210,6 +210,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -217,6 +218,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,4 +226,5 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0096-unique-binary-search-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
