@@ -33,6 +33,7 @@ class Solution {
             TreeNode current = root.right;
             while (current.left != null) {
                 current = current.left;
+
             }
             root.val = current.val;
             root.right = deleteNode(root.right, root.val);
