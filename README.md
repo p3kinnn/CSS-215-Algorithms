@@ -66,6 +66,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/2073-time-needed-to-buy-tickets) |
 | [3731-find-missing-elements](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/3731-find-missing-elements) |
@@ -169,6 +170,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +195,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0310-minimum-height-trees) |
+| [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -227,4 +230,20 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0450-delete-node-in-a-bst) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
