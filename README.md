@@ -63,6 +63,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
@@ -136,6 +137,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0036-valid-sudoku](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
@@ -170,6 +172,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0200-number-of-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Divide and Conquer
 |  |
@@ -180,12 +183,14 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0310-minimum-height-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0310-minimum-height-trees) |
