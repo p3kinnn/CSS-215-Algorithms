@@ -66,6 +66,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0200-number-of-islands](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
 | [0477-total-hamming-distance](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0477-total-hamming-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -89,6 +90,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0058-length-of-last-word](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -173,6 +175,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
 | [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Divide and Conquer
 |  |
@@ -187,6 +190,7 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -194,12 +198,14 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
 | [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -251,4 +257,16 @@ All the lab works, solutions and lectures from this course. Leetcode, codewars, 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/p3kinnn/CSS-215-Algorithms/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
